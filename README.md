@@ -1,6 +1,6 @@
 # PRODUCT
 init
-SleepWell - A Website for Better Sleep Quality 😴🌙
+Dublin Oven Fresh
 
 This project is part of our Social Media Marketing Course (MKT 46230) at University College Dublin (UCD), where we focus on organic social media marketing, content strategy, and website analytics.
 
@@ -22,5 +22,5 @@ How to Run the Project Locally 🖥️
 Shhh... it's a secret
 
 Contributors 🤝
-Alice (Yuqi) Wen, Student ID 23207055, 
+Alice Wen, Student ID 23207055, 
 
